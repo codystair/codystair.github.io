@@ -485,6 +485,10 @@ div > iframe {
     width: 90%;
   }
 
+  .river-repo-btn {
+    font-size: 1.65vw;
+  }
+
   #query-logs-gif,
   div > iframe {
     margin-bottom: 50px;
@@ -583,7 +587,7 @@ div > iframe {
   }
 
   #river-repo-btn {
-    font-size: 18px;
+    font-size: 2.8vw;
     width: 180px;
   }
 
